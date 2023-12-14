@@ -37,7 +37,7 @@ Estos serán los skills para su desarrollo
 
 
 <div align="center">
-<img src="[https://prnt.sc/yVlLCnTm2D6h](https://i.imgur.com/gxxxHMB.png)" align="center" />
+<img src="https://i.imgur.com/gxxxHMB.png" align="center" />
 </div>  
 
 ### Funcionalidad
