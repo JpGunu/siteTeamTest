@@ -35,21 +35,14 @@ Estos serán los skills para su desarrollo
 ### Requerimiento
 - Se desea crear lo siguiente:
 
-<b>Desktop</b>:<br>
 
 <div align="center">
-<img src="https://prnt.sc/TkoQNH2QMz1T" align="center" />
-</div>  
-
-<b>Mobile</b>:<br>
-
-<div align="center">
-<img src="https://prnt.sc/yVlLCnTm2D6h" align="center" />
+<img src="[https://prnt.sc/yVlLCnTm2D6h](https://i.imgur.com/gxxxHMB.png)" align="center" />
 </div>  
 
 ### Funcionalidad
 
-- Inicialmente el componente muestra 3 noticias. Al poner click en el botón "Ver más noticias", el componente debe mostrar los 7 restantes (10 noticias en total). El texto debe cambiar a "Ver menos noticias", y al dar click, debe mostrarse 3 noticias nuevamente.
+- Inicialmente el componente muestra 5 noticias. Al poner click en el botón "Ver más", el componente debe mostrar los 5 restantes (10 noticias en total). El texto debe cambiar a "Ver menos", y al dar click, debe mostrarse 5 noticias nuevamente.
 
 ### Puntos a evaluar
 - Código legible y limpio
