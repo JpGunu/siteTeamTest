@@ -18,7 +18,7 @@ Estos serán los skills para su desarrollo
 
 - Typescript
 
-- Docker
+- Docker (Opcional) 
 
 - Babel (Opcional) 
 
